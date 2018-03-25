@@ -1,0 +1,12 @@
+vast\selfmanagementweb\model\User.class
+vast\selfmanagementweb\WebSecurityConfig$1.class
+vast\selfmanagementweb\index\Controller\index.class
+vast\selfmanagementweb\register\Controller\RegisterController.class
+vast\selfmanagementweb\mapper\UserMapper.class
+vast\selfmanagementweb\service\impl\UserServiceImpl.class
+vast\selfmanagementweb\service\UserService.class
+vast\selfmanagementweb\Controller\UserController.class
+vast\selfmanagementweb\login\LoginController.class
+vast\selfmanagementweb\WebSecurityConfig.class
+vast\selfmanagementweb\SelfManagementWebApplication.class
+vast\selfmanagementweb\WebSecurityConfig$SecurityInterceptor.class
